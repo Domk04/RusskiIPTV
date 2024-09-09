@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:0 tvg-country="BY" tvg-logo="https://i.imgur.com/HWqxjGl.png" group-title="Undefined",Belros
+https://live2.mediacdn.ru/sr1/tro/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Undefined",БелМузТВ
+http://178.124.179.122:8088/BelMuzTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Undefined",Беларусь 5 (1080p) [Not 24/7]
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Undefined",Беларусь 5 Интернет (1080p) [Not 24/7]
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Music;Undefined",Первый Музыкальный BY
+http://rtmp.one.by:1200?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Music;Undefined",Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Music;Undefined",Первый Музыкальный RU BY
+http://rtmp.one.by:2200?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Music;Undefined",Первый Музыкальный RU BY [FHD],Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Undefined",Плюс ТВ
+http://178.124.179.122:8088/PlusTV/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BY" tvg-logo="" group-title="Local",Радио ХИТ (Орск)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/GGLbJIi.jpg" group-title="Undefined",Brodilo TV,Brodilo.TV,RU | Brodilo TV
+http://brodilo.tv/channel.php?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/D5M4Gjr.png" group-title="Undefined",RBK,RU | RBK
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Вот ТВ HD
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://gtrk.tv/sites/default/files/channels/mono/mono-b24.png" group-title="Local",Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Дон 24
+http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" group-title="Religious",Каббала ТВ
+http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Local",Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://xn--b1ats.xn--80asehdb/img/logo.png" group-title="Local",МТВ (Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" group-title="General;Undefined",Мир,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://i.imgur.com/CrFWXTD.png" group-title="Undefined",Мир (+4)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_24_ru.jpg" group-title="News",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НТВ
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_NTV/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НВК Саха
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Religious",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png" group-title="Religious",Надежда
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Наше Крутое HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" group-title="Business",РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Первый Тульский HD
+http://rt-ct-tula-htlive.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ОТС HD
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_OTS/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://only-tv.org/images/rbk.png" group-title="Undefined",РБК
+http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rbk_tv_ru.jpg" group-title="Business",РБК
+http://92.50.128.180/utv/1358/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",РТС (Хакасия)
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://lion-tv.com/uploads/posts/2016-09/1472964269_178.png" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Music",Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 +1
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 +3
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",Россия 1 +8
+http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",ТВ-ИН HD
+http://a3569457554-rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="https://nikatv.ru/public/img/logo2.png" group-title="Undefined",Ника TV,Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Entertainment",Ратник
+http://online-video.rbc.ru/online/rbctv.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Sport",Репортер 73 (Ульяновск)
+http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8?version=2&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="" group-title="Undefined",СТС Прима
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="RU" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/shanson_tv.jpg" group-title="Music",Шансон-ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GE;TR" tvg-logo="https://i.imgur.com/wVT0dwO.png" group-title="News",CBC
+https://edge02.odtv.az/o1/cbc/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Undefined;FRANCE;ITALY;SPAIN",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL;AM;BG;DK;FI;FR;GE;DE;GR;HU;IT;NO;PT;RS;ES;SE;CH;TR;UA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General;FRANCE;ITALY;SPAIN",РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/4941?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GE" tvg-logo="" group-title="Undefined",TVC (1080p)
+http://31.146.5.178:8087/play/a009/index.m3u8?checkedby:iptvcat.com
